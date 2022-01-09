@@ -89,10 +89,10 @@ while True:
         print ("kaplan kazandi!")
         time.sleep(2)
         print ("Puaniniz: ", kaplan)
-        time.sleep(5)
+        time.sleep(6)
     else :
         time.sleep(1)
         print ("Panda kazandi!")
         time.sleep(2)
         print ("Puaniniz: ", panda)
-        time.sleep(5)
+        time.sleep(6)
