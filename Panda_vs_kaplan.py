@@ -88,11 +88,11 @@ while True:
     if panda<=0 :
         print ("Kaplan kazandı!")
         time.sleep(2)
-        print ("Puanınız: ", kaplan)
+        print ("canınız: ", kaplan)
         time.sleep(6)
     else :
         time.sleep(1)
         print ("Panda kazandı!")
         time.sleep(2)
-        print ("Puanınız: ", panda)
+        print ("canınız: ", panda)
         time.sleep(6)
