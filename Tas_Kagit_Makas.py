@@ -14,6 +14,8 @@ while True :
             print("☺")
         elif bne=="kağıt":
             print("☻")
+        else :
+            print("Lütfen taş kağıt veya makas girirniz")
     elif bilgisayar==2:
         print("bilgisayar kağıt yaptı")
         if bne=="taş":
@@ -22,6 +24,8 @@ while True :
             print("☻")
         elif bne=="kağıt":
             print("♥")
+        else :
+            print("Lütfen taş kağıt veya makas girirniz")
     else :
         print("bilgisayar makas yaptı")
         if bne=="taş":
@@ -30,3 +34,5 @@ while True :
             print("♥")
         elif bne=="kağıt":
             print("☺")
+        else :
+            print("Lütfen taş kağıt veya makas girirniz")
