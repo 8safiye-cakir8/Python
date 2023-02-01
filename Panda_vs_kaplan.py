@@ -11,7 +11,7 @@ while True:
     print ("Bol şans!")
     while panda>0 and kaplan>0 :
         print ("Kaplan'ın canı: ", kaplan)
-        time.sleep(1)
+        time.sleep(1)   
         print ("Panda'nın canı: ", panda)
         time.sleep(2)
         print ("Panda başlıyor!")

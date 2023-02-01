@@ -6,13 +6,13 @@ integerlist = [3, 5, 1, 14, 99, 54]
 shufflelist = [1, 2, 3, 4, 5, 6, 7]
 
 uzunluk = len(safiyeliste) # montrer le nombre d'éléments d'une liste
-safiyeliste.append("ekrem") # ajouter un élément à la liste à la fin
+safiyeliste.append("ekrem") # ajouter un élément à la liste à la fin   
 x = safiyeliste.pop(2) # prendre le deuxième élément de la liste, et supprimer de la liste
 
 stringlist.sort() # ranger les éléments en fonction de la rang alphabétique ou numérique
 integerlist.sort()
 random.shuffle(shufflelist) # ranger les éléments dans un ordre aléatoire
-s = random.choice(integerlist)
+s = random.choice(integerlist) # choisir nimport'importe quel element dans la liste    choice = choix
 integerlist.append(stringlist) # ajouter une liste dans une liste
 eleman = integerlist.index(5)
 
